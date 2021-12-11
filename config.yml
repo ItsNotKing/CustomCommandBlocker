@@ -1,0 +1,69 @@
+#==============================================#
+#    __________   __________   ________        #
+#   / ________/  / ________/  /	   __  |       #
+#   | |          | |          |   |__| |       #
+#   | |          | |          |  ______/       #
+#   | |          | |          |    __  \       #
+#   | |______    | |______    |   |__| |       #
+#   |________\   |________\   |________/       #
+#                                              #
+#           CustomCommandBlocker               #
+#                                              #
+#    Plugin By: Golden Store                   #
+#    Development By: Sr.Not                    #
+#                                              #
+#==============================================#
+#Placeholders:                                 #
+#                                              #
+#Player Name: <player>                         #
+#==============================================#
+
+Config:
+    Welcome-Message: true
+    Welcome-Message-Text: 
+    - "&7&m                                            "
+    - "         &e&lHI &a<player> &e&lWELCOME"
+    - "&f"
+    - "     &c&lPlugin By&7: &e&lGolden Store"
+    - "     &c&lDevelopment By&7: &e&lSr.Not"
+    - ""
+    - "&c&lNOTE&7: &e&lCHANGE THIS MESSAGE IN CONFIG.YML"
+    - "&7&m                                            "
+    
+    Command-Help: true
+    Help-Message:
+    - "&6============================================="
+    - "             &cCustomCommandBlocker"
+    - "&f "
+    - "&f/warp (This Command Say You The Warp List)"
+    - "&f/tpa [player] (This Command Teleport You To Another Player" 
+    - "                AND MUCH MORE"
+    - "&f "
+    - "    &fThis Message Configure In config.yml"
+    - "&fThis Command Power By CustomCommandBlocker By Sr.Not"
+    - "&fAnd Golden Store! Join Now https://discord.io/GoldenStore"
+    - "&6============================================="
+    
+    Command-Plugins: true
+    Plugins-Message:
+    - '&7&m----------------------------'
+    - '&f'
+    - '&c&lYou Dont Haver Permission For This'
+    - '&f'
+    - '&7&m----------------------------'
+    
+    Command-Store: true
+    Store-Message:
+    - '&7&m----------------------------'
+    - '&f'
+    - '&c&l Store:  https://discord.io/GoldenStore'
+    - '&f'
+    - '&7&m----------------------------'
+    
+    Command-Discord: true
+    Discord-Message:
+    - '&7&m----------------------------'
+    - '&f'
+    - '&c&l Discord:  https://discord.io/GoldenStore'
+    - '&f'
+    - '&7&m----------------------------'

@@ -1,0 +1,17 @@
+main: srnot.customcommandblocker.customcommandblocker
+version: 1.0
+name: CustomCommandBlocker
+
+commands:
+  help:
+    description: This Command Block The Command /help and send Custom Message
+  ccbl:
+    description: This Command Is The Principal Command
+  discord:
+    description: This Command Say The Discord Of The Server
+  store:
+    description: This Command Say The Store Of The Server
+  pl:
+    description: This Command Block The Command /pl and send Custom Message
+  plugins:
+    description: This Command Block The Command /plugins and send Custom Message
