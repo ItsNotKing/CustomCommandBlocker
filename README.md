@@ -4,5 +4,4 @@
 > **Husky Development**
 > 
 > **Discord:** [\[CLICK HERE\]](http://discord.huskydevs.live)
-> 
 > **Donation:** [\[CLICK HERE\]](http://store.huskydevs.live)
